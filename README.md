@@ -1,2 +1,2 @@
 # new_repo
-A new repository
+A new repository created today
